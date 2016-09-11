@@ -1,3 +1,8 @@
+Devuan-Jessie
+
+https://wiki.gnome.org/Projects/NetworkManager
+
+NetworkManager
 Dependency for compiling:
 libgudev-1.0-dev
 libnl-3-dev
@@ -7,4 +12,9 @@ libndp-dev
 libnewt-dev
 gtk-doc-tools
 
-Devuan-Jessie
+NetworkManager-applet
+Dependecy for compiling:
+libsecret-1-dev
+libnotify-dev
+libmm-glib-dev
+libjansson-dev
