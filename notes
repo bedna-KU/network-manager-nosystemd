@@ -1,0 +1,10 @@
+Dependency for compiling:
+libgudev-1.0-dev
+libnl-3-dev
+uuid-dev
+libnss3-dev
+libndp-dev
+libnewt-dev
+gtk-doc-tools
+
+Devuan-Jessie
